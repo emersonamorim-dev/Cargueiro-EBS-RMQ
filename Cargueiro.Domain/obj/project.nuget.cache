@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1dROZFM6BwErL7lQSd/dxF6K5AhTkInb824OXHLbRm4jMRL79lMUZh14thYqWsNiBMZSBDlgGRUMwIwW3zJL+g==",
+  "success": true,
+  "projectFilePath": "D:\\projetos\\projetos-csharp\\FullStackTarget\\BackendDDD\\Cargueiro-EBS-RMQ\\Cargueiro.Domain\\Cargueiro.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EmersonLas\\.nuget\\packages\\awssdk.core\\3.7.106.22\\awssdk.core.3.7.106.22.nupkg.sha512",
+    "C:\\Users\\EmersonLas\\.nuget\\packages\\awssdk.eventbridge\\3.7.102.5\\awssdk.eventbridge.3.7.102.5.nupkg.sha512",
+    "C:\\Users\\EmersonLas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\EmersonLas\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\EmersonLas\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\EmersonLas\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
