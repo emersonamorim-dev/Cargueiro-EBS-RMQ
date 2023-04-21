@@ -1,7 +1,7 @@
 ## Cargueiro EBS RMQ
 
 Codificação em C#  usando abordagem EBS que interage com o serviço Amazon EventBridge (EBS) e é responsável por enviar e receber eventos para a oferta de cargueiros.
-Foi desenvolvido usando Arquitetura DDD para modelagem de regra de negócios e integrado para uso com mensageria com RabbitMQ.
+Foi desenvolvido usando modelagem DDD para facilitar a implementação de regra de negócios e integrado para uso com mensageria com RabbitMQ.
 
 ### Requisitos
 .NET Framework 4.7.2 ou superior
